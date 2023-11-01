@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad de Medellín, actual
 
 - 🎓 &nbsp;Estudiante de la Universidad de Medellín
 - 🌱 &nbsp;Aprendiendo desarrollo de aplicaciones web, ingeniería de software, ciberseguridad, DevOps y tengo un nivel intermedio de inglés.
-- 💬 &nbsp;Me gusta la música, tocar la guitarra, ver anime, los videojuegos.
+- 💬 &nbsp;Me gusta la música, tocar la guitarra, ver anime y los videojuegos.
 - 📫 &nbsp;Puedes contactarme mediante mi gmail (andressalbecerra@gmail.com) o mi [LinkedIn](linkedin.com/in/ddragnell) y te responderé tan pronto como pueda.
 - 📄 &nbsp;Si deseas que compartamos un rato e intercambiemos conocimientos, ¡siempre estoy abierto a hablar!
 
