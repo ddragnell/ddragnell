@@ -34,4 +34,3 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad de Medellín, actual
 <p align="center">
 <a href="https://linkedin.com/in/ddragnell" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"/></a>
 <a href="mailto:andressalbecerra@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/andrez_carne_de_res/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
